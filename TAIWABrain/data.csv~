@@ -1,0 +1,82 @@
+It is warm here,fan ON
+It is cool here,fan OFF
+It is hot,fan ON
+It is cold,fan OFF
+I am boiling,fan ON
+I am freezing,fan OFF
+I am cooked,fan ON
+I am frozen,fan OFF
+I am sweating,fan ON
+I am shivering,fan OFF
+Switch on the fan,fan ON
+Switch off the fan,fan OFF
+It is so dark,light ON
+It is dark in here,light ON
+It is so bright,light OFF
+I cannot see,light ON
+Switch on the lights,light ON
+Switch off the lights,light OFF
+Switch on the light,light ON
+Switch off the light,light OFF
+It is gloomy,light ON
+It is gloomy in here,light ON
+It is so dull,light ON
+show me today's headlines,news
+show me today's news,news
+read me the news,news
+read me the headlines,news
+what is the news today,news
+what is the headlines today,news
+write down a note,note
+take down a note,note
+take this down,note
+please write this down,note
+show me today's mails,Email
+show me today's emails,Email
+read mail,Email
+read email,Email
+read me the email,Email
+read me the note,Rnote
+read out the note,Rnote
+say what is in the note,Rnote
+what is written in the note,Rnote
+show me the note,Rnote
+logmein,Login
+please log me in,Login
+recognise me,Login
+Detect my face,Login
+Open my profile,Login
+login,Login
+detect me,Login
+play a song,song 
+play me a song,song
+play me some music,song
+please lighten up my mood,song
+play some good music,song
+play my favourites,song
+list all the songs,song
+show me all the songs,song
+songs,song
+who am I,whoAmI
+who am i,whoAmI
+what is my name,whoAmI
+who is the current user,whoAmI
+who is logged in,whoAmI
+goodbye,goodbye
+see you later,goodbye
+see you tomorrow,goodbye
+bye,goodbye
+show me who is outside,camera
+show me who is at the door,camera
+who is outside,camera
+who is knocking the door,camera
+show me who is knocking the door,camera
+please come in,unlock
+unlock the door,unlock
+let him pass throught the door,unlock
+let him come in,unlock
+lock the door,lock
+close the door,lock
+don't let anyone in,lock
+keep him outside,lock
+
